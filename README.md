@@ -1,6 +1,6 @@
 <img align=right src="./images/ha/HAlogo.png" width="240" />
 
-# **Dr John's Home Assistant Configuration**
+# **Home Assistant Configuration**
   
 Home Assistant has made numerous improvements to the way we live, making our lives easier in many ways.  This repo is dedicated to the hard work of those who have put their heart and soul into this community.
 
